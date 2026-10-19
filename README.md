@@ -14,7 +14,7 @@
 
 ---
 
-## `> WHOAMI`
+## `> WHO AM I`
 
 ```text
 NAME       : Byamugisha Alban
