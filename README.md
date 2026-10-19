@@ -54,25 +54,13 @@ MISSION    : Turning ideas into intelligent solutions
 
 My portfolio showcases my engineering background, skills, and projects.
 
-[Explore my portfolio repository](https://github.com/albanbyamugisha/albanbyamugisha.dev) · [Visit website](https://albanbyamugisha.github.io)
+[Explore my portfolio repository](https://github.com/albanbyamugisha/albanbyamugisha.dev) · [Visit website](https://albanbyamugisha.github.io/)
 
 ### ☕ IT Procurement System
 
 A Java application using Swing, JDBC, and MySQL for IT procurement requests.
 
 [Explore ITProcurementSystem](https://github.com/albanbyamugisha/ITProcurementSystem)
-
-### ⏰ Java Alarm Clock
-
-A Java console application featuring an alarm clock with sound and threading.
-
-[Explore Java-Alarm-Clock](https://github.com/albanbyamugisha/Java-Alarm-Clock)
-
-### 📺 Alban TV
-
-A web application project.
-
-[Explore alban-tv](https://github.com/albanbyamugisha/alban-tv)
 
 ## `> GITHUB ANALYTICS`
 
