@@ -1,25 +1,16 @@
 <!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║          BYAMUGISHA ALBAN — CYBER FUSION README             ║
-  ║          AI ENGINEER | SOFTWARE ENGINEER                    ║
-  ╚══════════════════════════════════════════════════════════════╝
+  BYAMUGISHA ALBAN | CYBER FUSION
+  AI ENGINEER & SOFTWARE ENGINEER
 -->
 
 <!-- ======================== HERO BANNER ======================== -->
 
 <p align="center">
-  <img
-    src="github-banner-albanbyamugisha.png"
-    alt="Byamugisha Alban — AI Engineer Command Center"
-    width="100%"
-  />
+  <img src="github-banner-albanbyamugisha.png" alt="Byamugisha Alban - AI Engineer Command Center" width="100%"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Passionate+AI+Engineer+%F0%9F%A4%96;Software+Engineer+%F0%9F%92%BB;Exploring+Generative+AI+%26+LLMs+%F0%9F%A7%A0;Building+Intelligent+Systems+%F0%9F%9A%80;Turning+Ideas+Into+Intelligent+Solutions"
-    alt="Animated AI Engineer introduction"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Passionate+AI+Engineer+%F0%9F%A4%96;Software+Engineer+%F0%9F%92%BB;Exploring+Generative+AI+%26+LLMs+%F0%9F%A7%A0;Building+Intelligent+Systems+%F0%9F%9A%80;Turning+Ideas+Into+Intelligent+Solutions" alt="AI Engineer typing animation"/>
 </p>
 
 <p align="center">
@@ -59,27 +50,33 @@ My journey combines software engineering fundamentals with a growing focus on AI
 I'm driven by curiosity, continuous learning, and the ambition to build technology that makes a meaningful difference.
 
 <details>
-  <summary><b>⌨️ Open My Developer Terminal</b></summary>
+  <summary><b>⌨️ Initialize Developer Terminal</b></summary>
 
-  ```bash
-  $ whoami
-  Byamugisha Alban
+  <br/>
 
-  $ primary_focus
-  AI Engineering & Intelligent Systems
+  <p align="center">
+    <img src="https://img.shields.io/badge/ALBAN--OS-ONLINE-00FF88?style=for-the-badge&logo=linux&logoColor=white" alt="Alban OS Online"/>
+  </p>
 
-  $ background
-  Software Engineering
+  <pre>
+root@alban:~$ whoami
+Byamugisha Alban
 
-  $ exploring
-  Generative AI, LLMs, NLP, APIs, Cloud & Full-Stack Development
+root@alban:~$ primary_focus
+AI Engineering &amp; Intelligent Systems
 
-  $ mission
-  Build useful, intelligent, and impactful technology.
+root@alban:~$ background
+Software Engineering
 
-  $ mindset
-  Learn continuously. Build boldly. Innovate with AI.
-  ```
+root@alban:~$ exploring
+Generative AI, LLMs, NLP, APIs, Cloud &amp; Full-Stack Development
+
+root@alban:~$ mission
+Build useful, intelligent, and impactful technology.
+
+root@alban:~$ mindset
+Learn continuously. Build boldly. Innovate with AI.
+  </pre>
 </details>
 
 <p align="center">
@@ -230,12 +227,12 @@ I'm driven by curiosity, continuous learning, and the ambition to build technolo
       <p>My portfolio showcases my engineering background, skills, and projects.</p>
       <p>
         <a href="https://github.com/albanbyamugisha/albanbyamugisha.dev">
-          <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" alt="Portfolio Source Code"/>
+          <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" alt="Portfolio source code"/>
         </a>
       </p>
       <p>
         <a href="https://albanbyamugisha.github.io/">
-          <img src="https://img.shields.io/badge/Live%20Portfolio-Visit-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Visit Portfolio"/>
+          <img src="https://img.shields.io/badge/Live%20Portfolio-Visit-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Visit portfolio"/>
         </a>
       </p>
     </td>
@@ -244,7 +241,7 @@ I'm driven by curiosity, continuous learning, and the ambition to build technolo
       <p>A Java application using Swing, JDBC, and MySQL for IT procurement requests.</p>
       <p>
         <a href="https://github.com/albanbyamugisha/ITProcurementSystem">
-          <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="IT Procurement System Repository"/>
+          <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="IT Procurement System repository"/>
         </a>
       </p>
     </td>
@@ -302,7 +299,7 @@ I'm driven by curiosity, continuous learning, and the ambition to build technolo
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:7B2FFF,100:00FF88&height=2&section=footer" width="100%" alt="Neon divider"/>
 </p>
 
-<!-- ======================== LEARNING OBJECTIVES ======================== -->
+<!-- ======================== NEXT OBJECTIVES ======================== -->
 
 <h2>
   <img src="https://img.shields.io/badge/06-NEXT%20OBJECTIVES-7B2FFF?style=for-the-badge" alt="06 Next Objectives"/>
@@ -332,17 +329,14 @@ I'm driven by curiosity, continuous learning, and the ambition to build technolo
 </table>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Always+Learning.+Always+Building.;The+Future+Is+Intelligent.;Engineering+Ideas+Into+Reality."
-    alt="Learning and building animation"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Always+Learning.+Always+Building.;The+Future+Is+Intelligent.;Engineering+Ideas+Into+Reality." alt="Learning and building animation"/>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FFF,100:00F7FF&height=2&section=footer" width="100%" alt="Neon divider"/>
 </p>
 
-<!-- ======================== CONNECT ======================== -->
+<!-- ======================== CONTACT ======================== -->
 
 <h2>
   <img src="https://img.shields.io/badge/07-CONNECT%20WITH%20ME-00F7FF?style=for-the-badge" alt="07 Connect With Me"/>
@@ -407,7 +401,7 @@ I'm driven by curiosity, continuous learning, and the ambition to build technolo
 
 <p align="left">
   <a href="tel:+256769858515">
-    <img src="https://img.shields.io/badge/Call%20Me-+256%20769%20858%20515-00FF88?style=for-the-badge&logo=phone&logoColor=black" alt="Call me"/>
+    <img src="https://img.shields.io/badge/Call%20Me-%2B256%20769%20858%20515-00FF88?style=for-the-badge&logo=phone&logoColor=black" alt="Call me"/>
   </a>
   <a href="mailto:albanbyamugisha@gmail.com">
     <img src="https://img.shields.io/badge/Send%20Email-Contact%20Me-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Send email"/>
