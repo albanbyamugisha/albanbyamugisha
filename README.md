@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/01-WHO%20AM%20I-00F7FF?style=for-the-badge" alt="01 Who Am I"/>
 </h2>
 
-Hey there! 👋 I'm **Byamugisha Alban**, a Software Engineer passionate about **Artificial Intelligence and AI Engineering**.
+I'm **Byamugisha Alban**, a Software Engineer passionate about **Artificial Intelligence and AI Engineering**.
 
 I enjoy exploring how AI can solve real-world problems, developing software applications, and turning innovative ideas into practical, intelligent solutions.
 
